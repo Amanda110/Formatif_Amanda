@@ -26,7 +26,7 @@ public class Formatif_Amanda {
 			else
 				System.out.println("pas présent");
 		
-	//Afficher medthode 3
+	//  Afficher methode 3
 		int [] a = (tableauAmpute(myTab));
 		for(int i=0;i<a.length;i++)
 		{
